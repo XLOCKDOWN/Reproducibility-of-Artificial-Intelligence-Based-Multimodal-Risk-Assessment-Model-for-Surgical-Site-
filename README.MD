@@ -37,3 +37,6 @@ The notebook will perform preprocessing, training, AUROC calculations, etc
 
 ## Results
 See previous outputs of the Notebook
+
+## Citation
+Chen W, Lu Z, You L, Zhou L, Xu J, Chen K. Artificial Intelligence-Based Multimodal Risk Assessment Model for Surgical Site Infection (AMRAMS): Development and Validation Study. JMIR Med Inform. 2020;8(6):e18186. Published 2020 Jun 15. doi:10.2196/18186
